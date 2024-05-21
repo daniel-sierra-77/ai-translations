@@ -1,0 +1,3 @@
+# ai-translations
+
+This is a repo for artificial intelligence translator the tool can translate from English to Spanish and multiple native languages from Guatemala like QUICHE or MAM, you can translate images, words and sign language via real-time video transmission to translate to all of the languages named, the project technologies are Next JS for the Frontend with Tensorflow Pre Trained models for the reception of the hand and fingers to translate into a word in English to then translate it into the navite language, it also has an API with a connection with AWS Cloud Services to get the data from a relational database, the API runs a simple Node JS and Express Js.
